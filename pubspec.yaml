@@ -1,0 +1,77 @@
+name: travelapp
+description: A new Flutter project.
+publish_to: none
+version: 1.0.0+1
+environment: 
+  sdk: '>=2.16.2 <3.0.0'
+dependencies: 
+  flutter: 
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  auto_size_text: 3.0.0
+  flutter_svg: ^1.0.3
+dev_dependencies: 
+  flutter_test: 
+    sdk: flutter
+  flutter_lints: ^1.0.0
+flutter: 
+  uses-material-design: true
+  assets: 
+    - packages/travelapp/assets/images/rectangle511.svg
+    - packages/travelapp/assets/images/path445.svg
+    - packages/travelapp/assets/images/stroke5.svg
+    - packages/travelapp/assets/images/stroke3.svg
+    - packages/travelapp/assets/images/stroke1.svg
+    - packages/travelapp/assets/images/morecircle.png
+    - packages/travelapp/assets/images/path33945.svg
+    - packages/travelapp/assets/images/ellipse736.png
+    - packages/travelapp/assets/images/ellipse16.png
+    - packages/travelapp/assets/images/arrowup.svg
+    - packages/travelapp/assets/images/ellipse18.png
+    - packages/travelapp/assets/images/ellipse17.png
+    - packages/travelapp/assets/images/travelingmonochromatic1.svg
+    - packages/travelapp/assets/images/group6932.svg
+    - packages/travelapp/assets/images/beachmonochromatic1.svg
+    - packages/travelapp/assets/images/home.svg
+    - packages/travelapp/assets/images/bag2.svg
+    - packages/travelapp/assets/images/discovery.svg
+    - packages/travelapp/assets/images/activity.svg
+    - packages/travelapp/assets/images/ellipse739.png
+    - packages/travelapp/assets/images/line181.svg
+    - packages/travelapp/assets/images/ellipse262.png
+    - packages/travelapp/assets/images/filter.svg
+    - packages/travelapp/assets/images/rectangle462.png
+    - packages/travelapp/assets/images/rectangle463.png
+    - packages/travelapp/assets/images/star.svg
+    - packages/travelapp/assets/images/rectangle464.png
+    - packages/travelapp/assets/images/rectangle465.png
+    - packages/travelapp/assets/images/arrowleft2.svg
+    - packages/travelapp/assets/images/arrowdown.svg
+    - packages/travelapp/assets/images/ellipse263.png
+    - packages/travelapp/assets/images/stroke7.svg
+    - packages/travelapp/assets/images/rectangle471.png
+    - packages/travelapp/assets/images/ellipse264.png
+    - packages/travelapp/assets/images/heart.svg
+    - packages/travelapp/assets/images/heart.png
+    - packages/travelapp/assets/images/location.svg
+    - packages/travelapp/assets/images/location.png
+    - packages/travelapp/assets/images/vector.svg
+    - packages/travelapp/assets/images/path4.svg
+    - packages/travelapp/assets/images/message.svg
+    - packages/travelapp/assets/images/lock.svg
+    - packages/travelapp/assets/images/travel1.png
+    - packages/travelapp/assets/images/morecircle.svg
+    - packages/travelapp/assets/images/tourist1.png
+    - packages/travelapp/assets/images/klipartz1.png
+    - packages/travelapp/assets/images/frame236.svg
+    - packages/travelapp/assets/images/eberhardgrossgasteigerfr38dxhd1x0unsplash1.png
+    - packages/travelapp/assets/images/ellipse308.png
+    - packages/travelapp/assets/images/frame.svg
+    - packages/travelapp/assets/images/ellipse307.png
+    - packages/travelapp/assets/images/rectangle556.png
+    - packages/travelapp/assets/images/arrowdown2.svg
+    - packages/travelapp/assets/images/2user.svg
+    - packages/travelapp/assets/images/send.svg
+    - packages/travelapp/assets/images/ellipse289.png
+    - packages/travelapp/assets/images/ellipse290.png
+    - packages/travelapp/assets/images/ellipse291.png
